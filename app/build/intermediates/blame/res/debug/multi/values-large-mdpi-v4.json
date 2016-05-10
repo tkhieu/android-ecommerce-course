@@ -1,0 +1,425 @@
+[
+    {
+        "outputFile": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/values-large-mdpi-v4/values-large-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 828,
+                        "endColumn": 34,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 39,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 131,
+                        "endColumn": 36,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 41,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 361,
+                        "endColumn": 38,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 41,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 401,
+                        "endColumn": 38,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 39,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 169,
+                        "endColumn": 36,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 37,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 37,
+                        "endOffset": 52
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 39,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 207,
+                        "endColumn": 36,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 41,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 441,
+                        "endColumn": 38,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 39,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 245,
+                        "endColumn": 36,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 37,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 37,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 40,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 283,
+                        "endColumn": 37,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 38,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 94,
+                        "endColumn": 35,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 40,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 322,
+                        "endColumn": 37,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endColumn": 39,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 524,
+                        "endColumn": 36,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 39,
+                    "endOffset": 651
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 562,
+                        "endColumn": 36,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 656,
+                    "endColumn": 39,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 600,
+                        "endColumn": 36,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 696,
+                    "endColumn": 39,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 638,
+                        "endColumn": 36,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 39,
+                    "endOffset": 771
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 676,
+                        "endColumn": 36,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 776,
+                    "endColumn": 39,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 714,
+                        "endColumn": 36,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 39,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 752,
+                        "endColumn": 36,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 39,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 790,
+                        "endColumn": 36,
+                        "endOffset": 825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endColumn": 38,
+                    "endOffset": 930
+                },
+                "from": {
+                    "file": "/Users/kimhieu/Downloads/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-large-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 487,
+                        "endColumn": 35,
+                        "endOffset": 521
+                    }
+                }
+            }
+        ]
+    }
+]
